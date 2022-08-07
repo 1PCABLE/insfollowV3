@@ -1,7 +1,8 @@
 #!/bin/bash
-# insfollow v2.0
-# recoded by: Termux Professor
+# insfollow v3
+# recoded by: Termux Professor , 1PCABLE
 # github.com/termuxprofessor/insfollow
+# https://github.com/1PCABLE/insfollowV3
 # If you use any part from this code, give me the credits, please, read the License
 
 clear
