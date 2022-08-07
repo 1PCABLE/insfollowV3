@@ -30,9 +30,9 @@ Best Tool For Increase Instagram Follower.
 
 ## How to Install in linux
 
-`apt install curl`
+`sudo apt install curl`
 
-`apt install git`
+`sudo apt install git`
 
 `git clone https://github.com/1PCABLE/insfollowV3`
 
