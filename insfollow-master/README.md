@@ -18,7 +18,7 @@ Best Tool For Increase Instagram Follower.
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/insfollow`
+`$ git clone https://github.com/1PCABLE/insfollowV3`
 
 `$ cd insfollow`
 
@@ -27,6 +27,15 @@ Best Tool For Increase Instagram Follower.
 `$ termux-wake-lock`
 
 `$ bash insfollow.sh`
+
+## How to Install in linux
+
+'apt install curl'
+'apt install git'
+'git clone https://github.com/1PCABLE/insfollowV3'
+'cd insfollowV3'
+'bash insfollow.sh'
+
 
 ## • Watch Video Tutorial From Below
 * https://youtu.be/SAkFZJRaq0U
