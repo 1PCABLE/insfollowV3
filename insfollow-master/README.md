@@ -22,6 +22,8 @@ Best Tool For Increase Instagram Follower.
 
 `$ cd insfollow`
 
+`$ cd insfollow-master`
+
 `$ chmod +x insfollow.sh`
 
 `$ termux-wake-lock`
@@ -37,6 +39,8 @@ Best Tool For Increase Instagram Follower.
 `git clone https://github.com/1PCABLE/insfollowV3`
 
 `cd insfollowV3`
+
+`cd insfollow-master`
 
 `bash insfollow.sh`
 
