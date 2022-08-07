@@ -223,7 +223,7 @@ else
 printf " \e[1;92mSuccess\e[0m\n"
 fi
 
-sleep $[ ( $RANDOM % 60 )  + 1 ]s
+sleep $[ ( $RANDOM % 35 )  + 1 ]s
 
 done
 printf " \e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 250 secs...\e[0m\n"
@@ -244,7 +244,7 @@ else
 printf " \e[1;92mSuccess\e[0m\n"
 fi
 
-sleep $[ ( $RANDOM % 120 )  + 1 ]s
+sleep $[ ( $RANDOM % 75 )  + 1 ]s
 
 done
 printf " \e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 140 secs for block prevention...\e[0m\n"
